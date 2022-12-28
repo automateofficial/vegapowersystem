@@ -3,7 +3,7 @@ body
     background-color:rgb(243, 238, 238);
     margin: 0px;
     padding: 0px;
-    font-family: cursive, sans-serif !important;
+    font-family: 'Roboto', sans-serif;
     font-size: 14px;
     font-weight: 300;
 }
